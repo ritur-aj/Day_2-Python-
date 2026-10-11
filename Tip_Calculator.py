@@ -13,13 +13,13 @@ PROJECT_NAME = "Tip Calculator"
 PROJECT_VERSION = "v1.0.0"
 DEVELOPER = "Ritu Raj"
 ROLE = "Data Science & AI Developer"
-CREATED_ON = "Oct 2026"
+CREATED_ON = "8 Oct 2026"
 DESCRIPTION = ["A simple and user-friendly","Tip Calculator project","built with Python."]
 TECHNOLOGIES = "Python  |  CLI  |  OOP"
 
 LOAD_PERCENT = 100      # where the loading bar stops (55 = exactly like the image, 100 = full)
 WIDTH = 71             # width of the whole splash layout (columns)
-SPEED = 3.0            # 1.0 = normal, 0.5 = twice as fast, 0 = no delays (--fast)
+SPEED = 2.0            # 1.0 = normal, 0.5 = twice as fast, 0 = no delays (--fast)
 
 # =============================================================================
 #  COLOURS  (24-bit RGB)
